@@ -538,7 +538,6 @@ img {
   width: 80%;
 }
 
-
 .skills__counter {
   width: 80%;
 }
@@ -780,7 +779,7 @@ img {
   right: -0.5rem;
 }
 
-.swiper-container-horizontal>.swiper-pagination-bullets {
+.swiper-container-horizontal > .swiper-pagination-bullets {
   bottom: -2.5rem;
 }
 
@@ -1340,7 +1339,7 @@ img {
     right: -3.5rem;
   }
 
-  .swiper-container-horizontal>.swiper-pagination-bullets {
+  .swiper-container-horizontal > .swiper-pagination-bullets {
     bottom: -4.5rem;
   }
 
